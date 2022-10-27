@@ -2,11 +2,9 @@
 - A passionate Software developer from Israel
 - ♟️ I'm a chess player.
 - 💪 I love to write code.
-- 📚 Like to read books.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📚 Like to read books
+- 📫 How to reach me ![image](https://user-images.githubusercontent.com/26866345/198221364-064d8ad0-6117-4893-96f9-5baf6927ef8d.png)
+
 
 🧪 A Team player and problem solving mind.
 
