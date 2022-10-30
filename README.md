@@ -3,7 +3,6 @@
 - ♟️ I'm a chess player.
 - 💪 I love to write code.
 - 📚 Like to read books
-- 📫 How to reach me ![image](https://user-images.githubusercontent.com/26866345/198221364-064d8ad0-6117-4893-96f9-5baf6927ef8d.png)
 
 
 🧪 A Team player and problem solving mind.
