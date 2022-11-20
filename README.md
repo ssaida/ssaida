@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Samer Saida
-- => A passionate Software developer from Israel
+- 👋 Hi, I’m Samer Saida => A passionate Software developer from Israel
+
 - ♟️ I'm a chess player.
 - 💪 I love to write code.
 - 📚 Like to read books
