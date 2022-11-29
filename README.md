@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Samer Saida => A passionate Software developer from Israel
+- 👋 Hi, I’m Samer Saida => A passionate Software developer
+- Organization Manager at Geeglo Developers Group - Haifa
 
 - ♟️ I'm a chess player.
 - 💪 I love to write code.
