@@ -14,4 +14,4 @@
 
 🧪 I'm a Team player and problem solving mind.
 
-✔️ Highly Experienced in Python , JavaScript and all Web Technologies
+✔️ Highly Experienced in Softwre Engineering, FullStack Web Development, Python Programming, JavaScript, ReactJS, NodeJS and all Web Technologies
