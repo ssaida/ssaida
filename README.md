@@ -2,7 +2,7 @@
 
 - 👋 Hello, I’m Samer Saida
 - A Passionate Software Developer, FullStack Web Developer, Specializing in Front End Web Development.
-- I'm Olso an Organization Manager at Geeglo Developers Group - Haifa
+- I'm Olso a Community Organizer at Geeglo Developers Group - Haifa
 
  - Precision | Strong passion in Programming | Out-of-the-box thinking |
 - I am well-versed in the following programming languages and technologies: JavaScript, HTML, CSS, Bootstrap, Sass, ReactJS, Redux,
