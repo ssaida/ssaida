@@ -2,7 +2,7 @@
 
 - 👋 Hello, I’m Samer Saida
 - A Passionate Software Developer, FullStack Web Developer, Specializing in Front End Web Development.
-- I'm Also a Community Organizer at Google Developers Group - Haifa
+- I'm Also a Community Organizer ane Lead at Google Developers Group - Haifa
 
  - Precision | Strong passion in Programming | Out-of-the-box thinking |
 - I am well-versed in the following programming languages and technologies: JavaScript, HTML, CSS, Bootstrap, Sass, ReactJS, Redux,
